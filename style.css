@@ -1,0 +1,71 @@
+h4{
+    font-family: Playfair Display;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+img{
+    border-radius: 12px;
+    text-align: center;
+    width: 100%;
+
+}
+h1{
+    color: pink;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+
+h5{
+    color: pink;
+    font-family: Playfair Display;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-size: 160%;
+}
+
+p{
+    font-family: Playfair Display;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-size: 140%;
+}
+
+#fork{
+    width: 15%;
+}
+
+#clock{
+    width: 12%;
+}
+
+#crust{
+    text-align: left;
+    font-size: 100%
+
+}
+
+#naranja{
+    color: orange;
+}
+
+.form-check{
+    text-align: left;
+}
+
+body{
+    padding-left: 5%;
+    padding-right: 5%;
+}
